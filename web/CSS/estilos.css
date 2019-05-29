@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+*{
+    margin: 0;
+    padding:0;
+}
+.administrador{
+
+    margin:50px auto;
+    width: 500px;
+    background-color: #ACF8FD;
+    text-align: center;
+    color: darkmagenta;
+    border-radius: 20px;
+    -webkit-box-shadow: 0px 31px 167px 0px rgba(94,32,94,1);
+    -moz-box-shadow: 0px 31px 167px 0px rgba(94,32,94,1);
+    box-shadow: 0px 31px 167px 0px rgba(94,32,94,1);
+}
+.registro1{
+text-align: center;
+    background-color: #ACF8FD;
+    color: darkmagenta;
+    border-radius: 20px;
+    -webkit-box-shadow: 0px 31px 167px 0px rgba(94,32,94,1);
+    -moz-box-shadow: 0px 31px 167px 0px rgba(94,32,94,1);
+    box-shadow: 0px 31px 167px 0px rgba(94,32,94,1);  
+}
